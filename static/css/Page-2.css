@@ -1,0 +1,59 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 562px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Bevan;
+  font-size: 1.5rem;
+  margin: 140px 499px 0 190px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 270px;
+  margin: 52px 27px 60px 190px;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-top: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 93px;
+    margin-right: 399px;
+    margin-left: 85px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 67px;
+    margin-right: 0;
+    margin-left: 90px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 269px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 89px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 67px;
+    margin-right: 0;
+  }
+}
